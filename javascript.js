@@ -1,6 +1,6 @@
 let user = 0;
 let computer = 0;
-//let arrayVal = ['rock','paper','scissor'];
+let arrayVal = ['rock','paper','scissor'];
 //console.log('start');
 function winnerResult(userInput,compResult){
     const winnerUpdate = document.getElementById('result');
